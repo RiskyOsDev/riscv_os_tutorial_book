@@ -1,0 +1,6 @@
+[book]
+authors = ["Tijmen de Jong"]
+language = "en"
+multilingual = false
+src = "src"
+title = "riskv_os_tutorial"
